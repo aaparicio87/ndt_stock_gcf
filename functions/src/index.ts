@@ -1,5 +1,6 @@
-import {creatNewUSerStaff} from './users/users'
+import {creatNewUSerStaff, deleteUserStaff} from './users/users'
 
 export {
-    creatNewUSerStaff
+    creatNewUSerStaff, 
+    deleteUserStaff
 }

@@ -7,6 +7,7 @@
     {
       "source": "functions",
       "codebase": "default",
+      "regio": "europe-west3",
       "ignore": [
         "node_modules",
         ".git",
